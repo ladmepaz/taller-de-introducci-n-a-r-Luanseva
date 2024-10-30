@@ -5,6 +5,6 @@ solucion <- function() {
   a <- 10
   b <- 20
   s <- a+b
-  s <- a+b-10
+  s <- NULL
   return(s) 
 }
