@@ -5,10 +5,10 @@ solucion <- function() {
   s <- NULL
   a <- NULL
   b <- NULL
-  a <- 8
+  a <- 10
   b <- 20
   s <- a+b
-  a <- 10
+  a <- 8
   s <- s+a
   s <- s+5
   return(s)
